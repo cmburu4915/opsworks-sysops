@@ -1,2 +1,2 @@
-AWS OpsWorks Win!
+Noma Kali Boss!
 <?php php_info(); ?>
